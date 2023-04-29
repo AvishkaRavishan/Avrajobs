@@ -1,7 +1,7 @@
 # Avrajobs
 Job Finding Platform - AVRAJOBS
-**
-#web interface - ReactJS
-**
+
+web interface - ReactJS
+
 
 Website: https://avrajobs.com/
